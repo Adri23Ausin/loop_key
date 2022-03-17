@@ -1,7 +1,7 @@
 
 
 
-cd C:\Users\adrian.ausin\OneDrive - Grupo VASS\Desktop\Udemy\Python\Basics\Random\bin
+cd bin
 
 loop_key.exe prntscrn 45
 
