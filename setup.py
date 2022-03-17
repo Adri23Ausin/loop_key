@@ -6,9 +6,9 @@ import py2exe
 
 cli_name = 'loop_key'
 cli_version = '0.0.1'
-cli_description = 'Para jugar'
+cli_description = 'Executable'
 cli_author = 'Adriansito'
-cli_author_email = 'adrian.ausin@vass.es'
+cli_author_email = 'adriausin23@gmail.com'
 
 pyexe_options = {
   'bundle_files': 1,
